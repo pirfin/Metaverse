@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/marco/OneDrive/Documentos/Unreal Projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/marco/OneDrive/Documentos/Unreal Projects/MyProject/Content/Content/Levels/Map1.umap",
+				"C:/Users/marco/OneDrive/Documentos/Unreal Projects/MyProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset",
+				"C:/Users/marco/OneDrive/Documentos/Unreal Projects/MyProject/Content/StarterContent/Materials/NewMaterial.uasset"
+			]
+		}
+	]
+}
