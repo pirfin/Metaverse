@@ -1376,3 +1376,21 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2023.03.17-23.52.23:252][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.03.17-23.52.23:317][963]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
 [2023.03.17-23.52.23:317][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.17-23.53.00:595][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.03.17-23.53.00:597][692]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.051
+[2023.03.17-23.53.00:597][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Content/Character/marco/Armor_Skeleton] ([1] browsable assets)...
+[2023.03.17-23.53.00:624][692]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Content/Character/marco/Armor_Skeleton.Armor_Skeleton]
+[2023.03.17-23.53.00:624][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Character/marco/Armor_Skeleton]
+[2023.03.17-23.53.00:625][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Content/Character/marco/Armor_Skeleton_Auto2
+[2023.03.17-23.53.00:626][692]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Armor_Skeleton_Auto2EDB653A74CC47CF908A093A212ABA376.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/Content/Character/marco/Armor_Skeleton_Auto2.uasset'
+[2023.03.17-23.53.00:627][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Content/Character/marco/NewFolder/untitled] ([1] browsable assets)...
+[2023.03.17-23.53.00:658][692]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Content/Character/marco/NewFolder/untitled.untitled]
+[2023.03.17-23.53.00:658][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Character/marco/NewFolder/untitled]
+[2023.03.17-23.53.00:726][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Content/Character/marco/NewFolder/untitled_Auto2
+[2023.03.17-23.53.00:726][692]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/untitled_Auto292D5ACBB422634FECD143DB9934779D6.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/Content/Character/marco/NewFolder/untitled_Auto2.uasset'
+[2023.03.17-23.53.00:726][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Content/Character/marco/NewFolder/untitled_PhysicsAsset] ([1] browsable assets)...
+[2023.03.17-23.53.00:744][692]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Content/Character/marco/NewFolder/untitled_PhysicsAsset.untitled_PhysicsAsset]
+[2023.03.17-23.53.00:744][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Character/marco/NewFolder/untitled_PhysicsAsset]
+[2023.03.17-23.53.00:748][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Content/Character/marco/NewFolder/untitled_PhysicsAsset_Auto2
+[2023.03.17-23.53.00:748][692]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/untitled_PhysicsAsset_Auto24FE133FB4478B69780E3518843BEE4D6.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/Content/Character/marco/NewFolder/untitled_PhysicsAsset_Auto2.uasset'
+[2023.03.17-23.53.00:748][692]LogFileHelpers: Auto-saving content packages took 0.152
