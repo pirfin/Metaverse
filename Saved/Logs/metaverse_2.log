@@ -1394,3 +1394,770 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2023.03.17-23.53.00:748][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Content/Character/marco/NewFolder/untitled_PhysicsAsset_Auto2
 [2023.03.17-23.53.00:748][692]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/untitled_PhysicsAsset_Auto24FE133FB4478B69780E3518843BEE4D6.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/Content/Character/marco/NewFolder/untitled_PhysicsAsset_Auto2.uasset'
 [2023.03.17-23.53.00:748][692]LogFileHelpers: Auto-saving content packages took 0.152
+[2023.03.18-00.25.04:597][455]LogDerivedDataCache: C:/Users/marco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.153 and deleted 0 files with total size 0 MiB. Scanned 8729 files in 8638 folders with total size 1646 MiB.
+[2023.03.18-01.25.05:582][256]LogDerivedDataCache: C:/Users/marco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.137 and deleted 0 files with total size 0 MiB. Scanned 8729 files in 8638 folders with total size 1646 MiB.
+[2023.03.18-02.25.04:629][ 54]LogDerivedDataCache: C:/Users/marco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.184 and deleted 0 files with total size 0 MiB. Scanned 8729 files in 8638 folders with total size 1646 MiB.
+[2023.03.18-03.13.23:988][929]LogViewport: Scene viewport resized to 1477x302, mode Windowed.
+[2023.03.18-03.13.24:020][931]LogViewport: Scene viewport resized to 1477x344, mode Windowed.
+[2023.03.18-03.13.24:054][933]LogViewport: Scene viewport resized to 1477x403, mode Windowed.
+[2023.03.18-03.13.24:087][935]LogViewport: Scene viewport resized to 1477x451, mode Windowed.
+[2023.03.18-03.13.24:121][937]LogViewport: Scene viewport resized to 1477x483, mode Windowed.
+[2023.03.18-03.13.24:154][939]LogViewport: Scene viewport resized to 1477x515, mode Windowed.
+[2023.03.18-03.13.24:186][941]LogViewport: Scene viewport resized to 1477x536, mode Windowed.
+[2023.03.18-03.13.24:220][943]LogViewport: Scene viewport resized to 1477x546, mode Windowed.
+[2023.03.18-03.13.24:254][945]LogViewport: Scene viewport resized to 1477x550, mode Windowed.
+[2023.03.18-03.13.24:292][947]LogViewport: Scene viewport resized to 1477x553, mode Windowed.
+[2023.03.18-03.13.24:426][955]LogViewport: Scene viewport resized to 1477x558, mode Windowed.
+[2023.03.18-03.13.24:474][958]LogViewport: Scene viewport resized to 1477x561, mode Windowed.
+[2023.03.18-03.13.24:491][959]LogViewport: Scene viewport resized to 1477x563, mode Windowed.
+[2023.03.18-03.13.24:568][963]LogViewport: Scene viewport resized to 1477x572, mode Windowed.
+[2023.03.18-03.13.24:601][965]LogViewport: Scene viewport resized to 1477x573, mode Windowed.
+[2023.03.18-03.25.04:609][ 37]LogDerivedDataCache: C:/Users/marco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.164 and deleted 0 files with total size 0 MiB. Scanned 8729 files in 8638 folders with total size 1646 MiB.
+[2023.03.18-03.41.36:310][ 65]LogAssetTools: Warning: Failed to import 'C:\Users\marco\OneDrive\Escritorio\artoriasArmor\animations\run.c4d'. Unknown extension 'c4d'.
+[2023.03.18-03.42.08:958][543]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.03.18-03.42.22:257][645]LogSlate: Window 'Choose Location for importing the Datasmith content' being destroyed
+[2023.03.18-03.42.25:827][645]LogSlate: Window 'Datasmith Import Options' being destroyed
+[2023.03.18-03.42.25:851][645]DatasmithC4DTranslatorLog: Warning: Old DatasmithC4DTranslator loaded
+[2023.03.18-03.42.25:921][645]LogDatasmithC4DImport: Melange SDK successfully read the file 'C:/Users/marco/OneDrive/Escritorio/artoriasArmor/animations/run.c4d' (read 2308259 out of 2308259 bytes, version 19024)
+[2023.03.18-03.42.25:922][645]LogDatasmithC4DImport: Warning: The file 'C:/Users/marco/OneDrive/Escritorio/artoriasArmor/animations/run.c4d' was not saved for Melange.
+[2023.03.18-03.42.27:318][645]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.03.18-03.42.27:365][645]LogTexture: Display: Building textures: /Game/run/Temp/Textures.Ch36_1001_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.03.18-03.42.27:631][645]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.03.18-03.42.27:653][645]LogTexture: Display: Building textures: /Game/run/Temp/Textures.Ch36_1001_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.03.18-03.42.28:114][645]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.03.18-03.42.28:167][645]LogTexture: Display: Building textures: /Game/run/Temp/Textures.Ch36_1001_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.03.18-03.42.29:180][645]LogStaticMesh: Display: Building static mesh Ch36...
+[2023.03.18-03.42.29:492][645]LogLayoutUV: FindBestPacking (Total Time: 87 ms, Avg Efficiency: 92.898000)
+[2023.03.18-03.42.29:726][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.03.18-03.42.29:729][645]LogDatasmithImport: Imported run in [0 min 3.652 s] [Private Bytes: 9.75 GB, Working Set 2.78 GB, Peak Working Set 7.14 GB]
+[2023.03.18-03.42.29:903][645]LogStaticMesh: Built static mesh [0.72s] /Game/run/Geometries/Ch36.Ch36
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: ================================================
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Total job queries 164, among them cache hits 2 (1.22%)
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Tracking 140 distinct input hashes that result in 102 distinct outputs (72.86%)
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: RAM used: 1.15 MB (0.00 GB) of 2048.00 MB (2.00 GB) budget. Usage: 0.06%
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Shaders Compiled: 9
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Jobs assigned 17, completed 9 (52.94%)
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Average time worker was idle: 6156.45 s
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 1.26 s
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 1.17 s
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Job life time (pending + execution): average 0.97 s, max 1.26
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.17 s
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Average processing rate: 2.84 jobs/sec
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Total thread time: 5.99 s
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Total thread preprocess time: 0.35 s
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Percentage time preprocessing: 5.90%
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Effective parallelization: 1.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.18-03.42.30:412][646]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2023.03.18-03.42.30:413][646]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.71 sec, max 0.74 sec, min 0.69 sec)
+[2023.03.18-03.42.30:413][646]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.71 sec, max 0.82 sec, min 0.60 sec)
+[2023.03.18-03.42.30:413][646]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.68 sec, max 0.71 sec, min 0.65 sec)
+[2023.03.18-03.42.30:413][646]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.45 sec, max 0.51 sec, min 0.39 sec)
+[2023.03.18-03.42.30:413][646]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.18-03.42.30:413][646]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.83% of total time (compiled    2 times, average 0.71 sec, max 0.74 sec, min 0.69 sec)
+[2023.03.18-03.42.30:413][646]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.74% of total time (compiled    2 times, average 0.71 sec, max 0.82 sec, min 0.60 sec)
+[2023.03.18-03.42.30:413][646]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.72% of total time (compiled    2 times, average 0.68 sec, max 0.71 sec, min 0.65 sec)
+[2023.03.18-03.42.30:413][646]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.93% of total time (compiled    2 times, average 0.45 sec, max 0.51 sec, min 0.39 sec)
+[2023.03.18-03.42.30:413][646]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 14.78% of total time (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2023.03.18-03.42.30:413][646]LogShaderCompilers: Display: ================================================
+[2023.03.18-03.42.41:663][225]LogAssetEditorSubsystem: Opening Asset editor for DatasmithScene /Game/run/run.run
+[2023.03.18-03.42.59:501][251]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/run/Animations/run.run
+[2023.03.18-03.42.59:622][251]LogViewport: Scene viewport resized to 1477x371, mode Windowed.
+[2023.03.18-03.43.42:836][656]LogContentBrowser: Deferred new asset file creation: NewTexture2DArray
+[2023.03.18-03.43.42:848][656]LogContentBrowser: Creating deferred item: NewTexture2DArray
+[2023.03.18-03.43.42:858][657]LogContentBrowser: Renaming the item being created (Deferred Item: NewTexture2DArray).
+[2023.03.18-03.43.43:823][707]LogContentBrowser: Attempting asset rename: NewTexture2DArray -> NewTexture2DArray
+[2023.03.18-03.43.43:823][707]LogContentBrowser: End creating deferred item NewTexture2DArray
+[2023.03.18-03.43.47:544][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.03.18-03.43.48:784][926]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.18-03.43.48:842][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.03.18-03.43.48:899][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.03.18-03.43.48:951][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.18-03.44.06:407][929]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.18-03.44.06:416][929]LogContentBundle: [Container: Untitled_1] Generating Streaming for 0 Content Bundles.
+[2023.03.18-03.44.06:434][929]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.18-03.44.06:435][929]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.18-03.44.06:435][929]LogWorldPartition: Display: GetPartitionedActors took 590 us
+[2023.03.18-03.44.06:601][929]LogWorldPartition: Display: GenerateStreaming took 167 ms
+[2023.03.18-03.44.06:602][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.18-03.44.06:602][929]PIE: New page: PIE session: Untitled_1 (Mar 17, 2023, 5:44:06 PM)
+[2023.03.18-03.44.06:607][929]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.03.18-03.44.06:607][929]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.18-03.44.06:607][929]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.03.18-03.44.06:686][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078630s)
+[2023.03.18-03.44.06:686][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.078717s)
+[2023.03.18-03.44.06:686][929]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.18-03.44.06:686][929]LogAIModule: Creating AISystem for world Untitled_1
+[2023.03.18-03.44.06:687][929]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.18-03.44.06:687][929]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.18-03.44.06:687][929]LogWorldPartition: UWorldPartition::Initialize(Asset=Untitled_1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.18-03.44.06:692][929]LogContentBundle: [Container: Untitled_1] Creating new contrainer.
+[2023.03.18-03.44.06:693][929]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 612 ms)
+[2023.03.18-03.44.06:693][929]LogPlayLevel: PIE: World Init took: (0.007072s)
+[2023.03.18-03.44.06:737][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.03.18-03.44.06:738][929]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.18-03.44.06:738][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.18-03.44.06:738][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.18-03.44.06:738][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.18-03.44.06:738][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.18-03.44.06:738][929]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.18-03.44.06:738][929]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.18-03.44.06:738][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.18-03.44.06:738][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.18-03.44.06:738][929]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.18-03.44.06:738][929]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.18-03.44.06:738][929]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.18-03.44.06:740][929]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.18-03.44.06:756][929]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.03.18-03.44.06:756][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.18-03.44.06:756][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.18-03.44.06:756][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.18-03.44.06:757][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.03.18-03.44.06:757][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.03.18-03.44.06:759][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.03.18-03.44.06:759][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.03.18-03.44.06:759][929]LogInit: FAudioDevice initialized.
+[2023.03.18-03.44.06:759][929]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2023.03.18-03.44.06:762][929]LogLoad: Game class is 'GameModeBase'
+[2023.03.18-03.44.06:763][929]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.03.17-22.44.06
+[2023.03.18-03.44.06:763][929]LogWorld: Bringing up level for play took: 0.000899
+[2023.03.18-03.44.06:765][929]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.03.18-03.44.06:776][929]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=506.352 Y=471.910 Z=320.360
+[2023.03.18-03.44.06:776][929]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2023.03.18-03.44.06:776][929]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=506.352 Y=471.910 Z=320.360,P=-0.000000 Y=-143.798185 R=0.000000
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/77/QTK2TOFAKUCC4OH745GDVF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/AB/1QCGE91T5EQQ9UTKOHSCH9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/DN/XR8P0OHQ2UMD5YU47C20EK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/G8/NGJ7QFQVTY01UZE0GQ5QX3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/K2/C74PLGXI2R9LW6IVE6AVMG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/T3/SQJ7JELAW5XSTP1JS5QJMH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/UK/3OKX6C10NWGHVWYQ7NH21G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/UP/XJC4J420XXOSGPB2F4H7ED.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/XB/YH1MJRWSG6K7YKOSQWYADL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/Z0/SDO6T5HIB7O50OBHISZCIX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/9R/JT69U2ZIH2ZJJUXUASV0F0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/BZ/AQH36VQUL6RRNO1G8N89X8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/MS/53FFO8N8QMR5EZSU2BXG3T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/1T/ZL0Y1EEN97U5ZPYDIC5SAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/4V/V25VGP3M2HPQ1P7Y76DI4R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/8A/NXI3LY5DSH0JCF4MEEBM4X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/DZ/XTTNN5AZ8XZMSVE9GQR3TC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/JA/4Y1UNG2T4GPFYJ7KPEDYVV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/YK/NH0RQ83YOTSLK0KQ86IP4N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/8P/VNJEVDB5K2D6L9KMNKBN6A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/US/DINUB3VE6STDFAC2VZ35GN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/Z1/J1XJFLPOFLBJRCPMFGF6C5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/27/MBLYVKKRPXBTRA7FIYDZJJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/3V/5E7YRRLHOPYOL7E03MPXZX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/CK/3U7ZZLZZY4U2JGYD4CD484.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/CM/ZZ4QMO3QO20LLLWIKB49QY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/JP/OEPEEFQ7A0CTPWQWFEJ9PV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/JP/IUFBX0244AWDZMZZHDKTKO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/U7/26ZHDTM3CBW86ZMVC0MC81.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/XH/833TP0FSFQQBWAZGJXKH6A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/L9/WMO74VATJJT97G0ETQHDV9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/ON/R223RRK3MH511F5YGGE4W1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/PI/Q9H1B01GIQ3UAILDCXPKFD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/SE/IMNTWHEYXWFLFNO0VMZCOH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/CV/ZVNWWCCOSQTHJQ00OL87PP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/MN/ZRKV9F579IVFLFFQFWCNP1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/N5/WGVE0AJGDUHGENADZV58M8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/OY/I7W1YSC8BUMH1JML1SHYXU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/WR/5KB6IQ3V0QMTIH5VVAM109.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/2P/WBW9CAOQGGZICLNBCFDJSB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/F4/M3J0ZJ0BV28M5Q99SOM48Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/Q1/OIHEIVHOC755KY4AIIXZHW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/V1/G2IAL67Q51RDGY0JARYZFC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/67/SCIVTASLB1G49QJSTRVO2P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/8P/TLD3VX5ZWRDBTWGHZBD6B2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/9E/VK298XRD5A11VYGHFC41A9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/VM/KITGMOBNCKMQD53U939GKS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/5T/8AVXKOA01TLOBAI26Z84M0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/8F/UILAR7KZF01SB5K1TYIOQU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/EF/AVEFB64683AQF9CJYB93DM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:229][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/XN/M3T3ZY3QR38M3HXIVWF08Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:230][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/UL/XUI40KZY0W19J25ADZ69HZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:230][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/V2/79GVO9T8L33D7PL17IOCH8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:230][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/1C/J2AQ1EOULFDGSSVCOF21IT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:230][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/AK/1ZC2T0VGQ3SM7U375JQUCB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:230][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/0N/MJ50OORWK9B5CCTZI745ZN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:230][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/2T/LW1MREPFXBPLJCYEDJ1QEP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:230][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/35/J016PIHOM9QMV09QAXSB71.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:230][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/5J/220CT5CUS77FQ1Y0UX22G1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:230][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/9D/DB7HESC98L3P1C0EXJ9VNN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:230][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/AJ/7C8JC8FV0F2O6Y16RNPPG5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:230][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/QA/56OJ68IEIQK6AZD998V9AC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:230][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/W5/RZKDGOKU0HOUR9XR3OORWP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:230][929]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/F/3O/LQ9LHAPSPR2ZQON593WMVL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.18-03.44.07:643][929]PIE: Server logged in
+[2023.03.18-03.44.07:644][929]PIE: Play in editor total start time 1.229 seconds.
+[2023.03.18-03.44.11:160][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.18-03.44.11:160][ 31]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.03.18-03.44.11:213][ 31]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.18-03.44.11:213][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.18-03.44.11:214][ 31]LogContentBundle: [Container: Untitled_1] Deleting container.
+[2023.03.18-03.44.11:221][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.18-03.44.11:240][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.18-03.44.13:587][ 31]LogMeshUtilities: Finished distance field build in 6.2s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 38% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2023.03.18-03.44.13:678][ 31]LogMeshUtilities: Finished distance field build in 6.3s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2023.03.18-03.44.13:884][ 31]LogMeshUtilities: Finished distance field build in 6.5s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2023.03.18-03.44.14:245][ 31]LogMeshUtilities: Finished distance field build in 6.9s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2023.03.18-03.44.14:255][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.18-03.44.14:257][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.18-03.44.14:259][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.18-03.44.14:299][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.03.18-03.44.14:322][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.03.18-03.44.25:832][693]LogViewport: Scene viewport resized to 1477x360, mode Windowed.
+[2023.03.18-03.44.25:863][694]LogViewport: Scene viewport resized to 1477x339, mode Windowed.
+[2023.03.18-03.44.25:912][696]LogViewport: Scene viewport resized to 1477x301, mode Windowed.
+[2023.03.18-03.44.25:961][698]LogViewport: Scene viewport resized to 1477x281, mode Windowed.
+[2023.03.18-03.44.26:008][700]LogViewport: Scene viewport resized to 1477x266, mode Windowed.
+[2023.03.18-03.44.26:054][702]LogViewport: Scene viewport resized to 1477x261, mode Windowed.
+[2023.03.18-03.44.26:100][704]LogViewport: Scene viewport resized to 1477x257, mode Windowed.
+[2023.03.18-03.44.26:149][706]LogViewport: Scene viewport resized to 1477x255, mode Windowed.
+[2023.03.18-03.44.26:194][708]LogViewport: Scene viewport resized to 1477x252, mode Windowed.
+[2023.03.18-03.44.26:238][710]LogViewport: Scene viewport resized to 1477x248, mode Windowed.
+[2023.03.18-03.44.26:381][718]LogViewport: Scene viewport resized to 1477x244, mode Windowed.
+[2023.03.18-03.44.26:422][720]LogViewport: Scene viewport resized to 1477x239, mode Windowed.
+[2023.03.18-03.44.26:465][722]LogViewport: Scene viewport resized to 1477x231, mode Windowed.
+[2023.03.18-03.44.26:507][724]LogViewport: Scene viewport resized to 1477x222, mode Windowed.
+[2023.03.18-03.44.26:549][726]LogViewport: Scene viewport resized to 1477x212, mode Windowed.
+[2023.03.18-03.44.26:591][728]LogViewport: Scene viewport resized to 1477x205, mode Windowed.
+[2023.03.18-03.44.26:633][730]LogViewport: Scene viewport resized to 1477x199, mode Windowed.
+[2023.03.18-03.44.26:703][733]LogViewport: Scene viewport resized to 1477x196, mode Windowed.
+[2023.03.18-03.44.26:762][736]LogViewport: Scene viewport resized to 1477x192, mode Windowed.
+[2023.03.18-03.44.26:803][738]LogViewport: Scene viewport resized to 1477x187, mode Windowed.
+[2023.03.18-03.44.26:844][740]LogViewport: Scene viewport resized to 1477x184, mode Windowed.
+[2023.03.18-03.44.26:887][742]LogViewport: Scene viewport resized to 1477x180, mode Windowed.
+[2023.03.18-03.44.26:910][743]LogViewport: Scene viewport resized to 1477x177, mode Windowed.
+[2023.03.18-03.44.26:954][745]LogViewport: Scene viewport resized to 1477x174, mode Windowed.
+[2023.03.18-03.44.26:996][747]LogViewport: Scene viewport resized to 1477x167, mode Windowed.
+[2023.03.18-03.44.27:038][749]LogViewport: Scene viewport resized to 1477x159, mode Windowed.
+[2023.03.18-03.44.27:080][751]LogViewport: Scene viewport resized to 1477x156, mode Windowed.
+[2023.03.18-03.44.27:206][758]LogViewport: Scene viewport resized to 1477x168, mode Windowed.
+[2023.03.18-03.44.27:247][760]LogViewport: Scene viewport resized to 1477x189, mode Windowed.
+[2023.03.18-03.44.27:289][762]LogViewport: Scene viewport resized to 1477x202, mode Windowed.
+[2023.03.18-03.44.27:330][764]LogViewport: Scene viewport resized to 1477x205, mode Windowed.
+[2023.03.18-03.44.27:356][765]LogViewport: Scene viewport resized to 1477x212, mode Windowed.
+[2023.03.18-03.52.15:952][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.03.18-03.52.15:954][609]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.065
+[2023.03.18-03.52.15:954][609]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/run/Animations/run] ([1] browsable assets)...
+[2023.03.18-03.52.15:954][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/run/Animations/run]
+[2023.03.18-03.52.15:978][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/run/Animations/run_Auto3
+[2023.03.18-03.52.15:978][609]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/run_Auto3FF78CCE44C17929560BD30B1EBDFD491.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/run/Animations/run_Auto3.uasset'
+[2023.03.18-03.52.15:979][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/run/Geometries/Ch36] ([1] browsable assets)...
+[2023.03.18-03.52.16:048][609]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/run/Geometries/Ch36.Ch36]
+[2023.03.18-03.52.16:048][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/run/Geometries/Ch36]
+[2023.03.18-03.52.16:068][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/run/Geometries/Ch36_Auto3
+[2023.03.18-03.52.16:068][609]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Ch36_Auto3B168FD0942A3ED6993B1DDBCCB91BEC8.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/run/Geometries/Ch36_Auto3.uasset'
+[2023.03.18-03.52.16:069][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/run/Materials/Ch36_Body_2] ([1] browsable assets)...
+[2023.03.18-03.52.16:106][609]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/run/Materials/Ch36_Body_2.Ch36_Body_2]
+[2023.03.18-03.52.16:106][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/run/Materials/Ch36_Body_2]
+[2023.03.18-03.52.16:109][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/run/Materials/Ch36_Body_2_Auto3
+[2023.03.18-03.52.16:109][609]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Ch36_Body_2_Auto3B6543D6B46400C8727818AB797F633FF.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/run/Materials/Ch36_Body_2_Auto3.uasset'
+[2023.03.18-03.52.16:110][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/run/Materials/Ch36_Body] ([1] browsable assets)...
+[2023.03.18-03.52.16:136][609]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/run/Materials/Ch36_Body.Ch36_Body]
+[2023.03.18-03.52.16:136][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/run/Materials/Ch36_Body]
+[2023.03.18-03.52.16:138][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/run/Materials/Ch36_Body_Auto3
+[2023.03.18-03.52.16:138][609]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Ch36_Body_Auto32E129A4C43BCCF87378EBCA568914EF7.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/run/Materials/Ch36_Body_Auto3.uasset'
+[2023.03.18-03.52.16:139][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/run/Textures/Ch36_1001_Normal] ([1] browsable assets)...
+[2023.03.18-03.52.16:145][609]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/run/Textures/Ch36_1001_Normal.Ch36_1001_Normal]
+[2023.03.18-03.52.16:145][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/run/Textures/Ch36_1001_Normal]
+[2023.03.18-03.52.16:229][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/run/Textures/Ch36_1001_Normal_Auto3
+[2023.03.18-03.52.16:229][609]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Ch36_1001_Normal_Auto380391D6045202BC73FA650953E0459D1.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/run/Textures/Ch36_1001_Normal_Auto3.uasset'
+[2023.03.18-03.52.16:230][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/run/Textures/Ch36_1001_Glossiness] ([1] browsable assets)...
+[2023.03.18-03.52.16:232][609]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/run/Textures/Ch36_1001_Glossiness.Ch36_1001_Glossiness]
+[2023.03.18-03.52.16:232][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/run/Textures/Ch36_1001_Glossiness]
+[2023.03.18-03.52.16:250][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/run/Textures/Ch36_1001_Glossiness_Auto3
+[2023.03.18-03.52.16:250][609]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Ch36_1001_Glossiness_Auto30AC894D045D32EC62528F1BC0F26EF6C.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/run/Textures/Ch36_1001_Glossiness_Auto3.uasset'
+[2023.03.18-03.52.16:251][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/run/Textures/Ch36_1001_Diffuse] ([1] browsable assets)...
+[2023.03.18-03.52.16:253][609]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/run/Textures/Ch36_1001_Diffuse.Ch36_1001_Diffuse]
+[2023.03.18-03.52.16:253][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/run/Textures/Ch36_1001_Diffuse]
+[2023.03.18-03.52.16:350][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/run/Textures/Ch36_1001_Diffuse_Auto3
+[2023.03.18-03.52.16:350][609]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Ch36_1001_Diffuse_Auto3E887C78749337BE7F8CA14A21E53E812.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/run/Textures/Ch36_1001_Diffuse_Auto3.uasset'
+[2023.03.18-03.52.16:351][609]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/run/run] ([1] browsable assets)...
+[2023.03.18-03.52.16:351][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/run/run]
+[2023.03.18-03.52.16:351][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/run/run" FILE="../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/run/run_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.03.18-03.52.16:352][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/run/run_Auto3
+[2023.03.18-03.52.16:352][609]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/run_Auto350BFC20D4C769F6DC695FEB440CD18D3.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/run/run_Auto3.uasset'
+[2023.03.18-03.52.16:353][609]LogFileHelpers: Auto-saving content packages took 0.400
+[2023.03.18-03.52.53:867][924]LogViewport: Scene viewport resized to 1477x573, mode Windowed.
+[2023.03.18-03.53.14:286][977]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.18-03.53.14:308][977]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.18-03.53.14:319][978]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.18-03.53.17:145][148]LogContentBrowser: Attempting asset rename: NewFolder -> folder
+[2023.03.18-03.53.17:145][148]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.18-03.53.29:236][336]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\marco\OneDrive\Escritorio\untitled.fbx)
+[2023.03.18-03.53.29:247][336]LogFbx: Loading FBX Scene from C:\Users\marco\OneDrive\Escritorio\untitled.fbx
+[2023.03.18-03.53.29:319][336]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.18-03.53.31:224][336]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.18-03.53.31:299][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.03.18-03.53.31:300][336]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.03.18-03.53.31:824][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.03.18-03.53.31:824][336]FBXImport: Import was canceled. 
+[2023.03.18-03.53.31:859][336]LogAssetTools: The import task was canceled.
+[2023.03.18-03.53.44:564][505]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\marco\OneDrive\Escritorio\run.fbx)
+[2023.03.18-03.53.44:650][505]LogFbx: Loading FBX Scene from C:\Users\marco\OneDrive\Escritorio\run.fbx
+[2023.03.18-03.53.44:716][505]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.18-03.53.48:287][505]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.18-03.53.48:302][505]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2023.03.18-03.53.48:303][505]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch36
+[2023.03.18-03.53.48:303][505]LogFbx: Warning: Recreating bind pose succeeded.
+[2023.03.18-03.53.48:306][505]LogMaterial: Display: Material /Game/run/folder/Ch36_Body.Ch36_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.18-03.53.48:708][505]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.03.18-03.53.48:758][505]LogTexture: Display: Building textures: /Game/run/folder/Ch36_1001_Diffuse.Ch36_1001_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.03.18-03.53.49:112][505]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.03.18-03.53.49:112][505]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.03.18-03.53.49:131][505]LogTexture: Display: Building textures: /Game/run/folder/Ch36_1001_Specular.Ch36_1001_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.03.18-03.53.49:251][505]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.03.18-03.53.49:289][505]LogTexture: Display: Building textures: /Game/run/folder/Ch36_1001_Glossiness.Ch36_1001_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.03.18-03.53.49:807][505]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.03.18-03.53.49:856][505]LogTexture: Display: Building textures: /Game/run/folder/Ch36_1001_Normal.Ch36_1001_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.03.18-03.53.50:116][505]LogFbx: Triangulating skeletal mesh Ch36
+[2023.03.18-03.53.50:596][505]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2023.03.18-03.53.51:333][505]LogSkeletalMesh: Section 0: Material=0, 28880 triangles
+[2023.03.18-03.53.51:412][505]LogSkeletalMesh: Building Skeletal Mesh run...
+[2023.03.18-03.53.51:448][505]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (run) ...
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: ================================================
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Total job queries 201, among them cache hits 35 (17.41%)
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Tracking 166 distinct input hashes that result in 124 distinct outputs (74.70%)
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: RAM used: 1.36 MB (0.00 GB) of 2048.00 MB (2.00 GB) budget. Usage: 0.07%
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Shaders Compiled: 35
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Jobs assigned 35, completed 35 (100.00%)
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Average time worker was idle: 2066.17 s
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Time job spent in pending queue: average 1.01 s, longest 3.14 s
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Job execution time: average 1.48 s, max 4.61 s
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Job life time (pending + execution): average 2.49 s, max 4.63
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.49 s
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Jobs were issued in 35 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Average processing rate: 3.34 jobs/sec
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Total thread time: 40.37 s
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Total thread preprocess time: 2.59 s
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Percentage time preprocessing: 6.42%
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Effective parallelization: 3.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.51 sec, max 3.52 sec, min 0.69 sec)
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 1.39 sec, max 2.75 sec, min 0.60 sec)
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 1.36 sec, max 3.16 sec, min 0.65 sec)
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 1.25 sec, max 2.84 sec, min 0.39 sec)
+[2023.03.18-03.53.51:448][505]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.13 sec, max 1.13 sec, min 1.13 sec)
+[2023.03.18-03.53.51:449][505]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.18-03.53.51:449][505]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.98% of total time (compiled    4 times, average 1.51 sec, max 3.52 sec, min 0.69 sec)
+[2023.03.18-03.53.51:449][505]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.48% of total time (compiled    4 times, average 1.36 sec, max 3.16 sec, min 0.65 sec)
+[2023.03.18-03.53.51:449][505]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.34% of total time (compiled    3 times, average 1.39 sec, max 2.75 sec, min 0.60 sec)
+[2023.03.18-03.53.51:449][505]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.26% of total time (compiled    3 times, average 1.25 sec, max 2.84 sec, min 0.39 sec)
+[2023.03.18-03.53.51:449][505]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.80% of total time (compiled    1 times, average 1.13 sec, max 1.13 sec, min 1.13 sec)
+[2023.03.18-03.53.51:449][505]LogShaderCompilers: Display: ================================================
+[2023.03.18-03.53.52:002][505]LogSkeletalMesh: Built Skeletal Mesh [0.59s] /Game/run/folder/run.run
+[2023.03.18-03.53.52:169][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.18-03.53.52:181][505]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.03.18-03.53.52:181][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(0) mixamorig1_Hips
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(1) mixamorig1_Spine
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(2) mixamorig1_Spine1
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(3) mixamorig1_Spine2
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(4) mixamorig1_Neck
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(5) mixamorig1_Head
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(6) mixamorig1_HeadTop_End
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(7) mixamorig1_LeftShoulder
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(8) mixamorig1_LeftArm
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(9) mixamorig1_LeftForeArm
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(10) mixamorig1_LeftHand
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(11) mixamorig1_LeftHandThumb1
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(12) mixamorig1_LeftHandThumb2
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(13) mixamorig1_LeftHandThumb3
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(14) mixamorig1_LeftHandThumb4
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(15) mixamorig1_LeftHandIndex1
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(16) mixamorig1_LeftHandIndex2
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(17) mixamorig1_LeftHandIndex3
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(18) mixamorig1_LeftHandIndex4
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(19) mixamorig1_LeftHandMiddle1
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(20) mixamorig1_LeftHandMiddle2
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(21) mixamorig1_LeftHandMiddle3
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(22) mixamorig1_LeftHandMiddle4
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(23) mixamorig1_LeftHandRing1
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(24) mixamorig1_LeftHandRing2
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(25) mixamorig1_LeftHandRing3
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(26) mixamorig1_LeftHandRing4
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(27) mixamorig1_LeftHandPinky1
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(28) mixamorig1_LeftHandPinky2
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(29) mixamorig1_LeftHandPinky3
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(30) mixamorig1_LeftHandPinky4
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(31) mixamorig1_RightShoulder
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(32) mixamorig1_RightArm
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(33) mixamorig1_RightForeArm
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(34) mixamorig1_RightHand
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(35) mixamorig1_RightHandThumb1
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(36) mixamorig1_RightHandThumb2
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(37) mixamorig1_RightHandThumb3
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(38) mixamorig1_RightHandThumb4
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(39) mixamorig1_RightHandIndex1
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(40) mixamorig1_RightHandIndex2
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(41) mixamorig1_RightHandIndex3
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(42) mixamorig1_RightHandIndex4
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(43) mixamorig1_RightHandMiddle1
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(44) mixamorig1_RightHandMiddle2
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(45) mixamorig1_RightHandMiddle3
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(46) mixamorig1_RightHandMiddle4
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(47) mixamorig1_RightHandRing1
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(48) mixamorig1_RightHandRing2
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(49) mixamorig1_RightHandRing3
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(50) mixamorig1_RightHandRing4
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(51) mixamorig1_RightHandPinky1
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(52) mixamorig1_RightHandPinky2
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(53) mixamorig1_RightHandPinky3
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(54) mixamorig1_RightHandPinky4
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(55) mixamorig1_LeftUpLeg
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(56) mixamorig1_LeftLeg
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(57) mixamorig1_LeftFoot
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(58) mixamorig1_LeftToeBase
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(59) mixamorig1_LeftToe_End
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(60) mixamorig1_RightUpLeg
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(61) mixamorig1_RightLeg
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(62) mixamorig1_RightFoot
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(63) mixamorig1_RightToeBase
+[2023.03.18-03.53.52:199][505]LogFbx: SortedLinks :(64) mixamorig1_RightToe_End
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(0) mixamorig1_Hips
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(1) mixamorig1_Spine
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(2) mixamorig1_Spine1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(3) mixamorig1_Spine2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(4) mixamorig1_Neck
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(5) mixamorig1_Head
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(6) mixamorig1_HeadTop_End
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(7) mixamorig1_LeftShoulder
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(8) mixamorig1_LeftArm
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(9) mixamorig1_LeftForeArm
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(10) mixamorig1_LeftHand
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(11) mixamorig1_LeftHandThumb1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(12) mixamorig1_LeftHandThumb2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(13) mixamorig1_LeftHandThumb3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(14) mixamorig1_LeftHandThumb4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(15) mixamorig1_LeftHandIndex1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(16) mixamorig1_LeftHandIndex2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(17) mixamorig1_LeftHandIndex3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(18) mixamorig1_LeftHandIndex4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(19) mixamorig1_LeftHandMiddle1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(20) mixamorig1_LeftHandMiddle2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(21) mixamorig1_LeftHandMiddle3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(22) mixamorig1_LeftHandMiddle4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(23) mixamorig1_LeftHandRing1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(24) mixamorig1_LeftHandRing2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(25) mixamorig1_LeftHandRing3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(26) mixamorig1_LeftHandRing4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(27) mixamorig1_LeftHandPinky1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(28) mixamorig1_LeftHandPinky2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(29) mixamorig1_LeftHandPinky3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(30) mixamorig1_LeftHandPinky4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(31) mixamorig1_RightShoulder
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(32) mixamorig1_RightArm
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(33) mixamorig1_RightForeArm
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(34) mixamorig1_RightHand
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(35) mixamorig1_RightHandThumb1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(36) mixamorig1_RightHandThumb2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(37) mixamorig1_RightHandThumb3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(38) mixamorig1_RightHandThumb4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(39) mixamorig1_RightHandIndex1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(40) mixamorig1_RightHandIndex2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(41) mixamorig1_RightHandIndex3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(42) mixamorig1_RightHandIndex4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(43) mixamorig1_RightHandMiddle1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(44) mixamorig1_RightHandMiddle2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(45) mixamorig1_RightHandMiddle3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(46) mixamorig1_RightHandMiddle4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(47) mixamorig1_RightHandRing1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(48) mixamorig1_RightHandRing2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(49) mixamorig1_RightHandRing3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(50) mixamorig1_RightHandRing4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(51) mixamorig1_RightHandPinky1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(52) mixamorig1_RightHandPinky2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(53) mixamorig1_RightHandPinky3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(54) mixamorig1_RightHandPinky4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(55) mixamorig1_LeftUpLeg
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(56) mixamorig1_LeftLeg
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(57) mixamorig1_LeftFoot
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(58) mixamorig1_LeftToeBase
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(59) mixamorig1_LeftToe_End
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(60) mixamorig1_RightUpLeg
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(61) mixamorig1_RightLeg
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(62) mixamorig1_RightFoot
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(63) mixamorig1_RightToeBase
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(64) mixamorig1_RightToe_End
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(0) mixamorig1_Hips
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(1) mixamorig1_Spine
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(2) mixamorig1_Spine1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(3) mixamorig1_Spine2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(4) mixamorig1_Neck
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(5) mixamorig1_Head
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(6) mixamorig1_HeadTop_End
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(7) mixamorig1_LeftShoulder
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(8) mixamorig1_LeftArm
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(9) mixamorig1_LeftForeArm
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(10) mixamorig1_LeftHand
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(11) mixamorig1_LeftHandThumb1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(12) mixamorig1_LeftHandThumb2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(13) mixamorig1_LeftHandThumb3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(14) mixamorig1_LeftHandThumb4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(15) mixamorig1_LeftHandIndex1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(16) mixamorig1_LeftHandIndex2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(17) mixamorig1_LeftHandIndex3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(18) mixamorig1_LeftHandIndex4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(19) mixamorig1_LeftHandMiddle1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(20) mixamorig1_LeftHandMiddle2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(21) mixamorig1_LeftHandMiddle3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(22) mixamorig1_LeftHandMiddle4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(23) mixamorig1_LeftHandRing1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(24) mixamorig1_LeftHandRing2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(25) mixamorig1_LeftHandRing3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(26) mixamorig1_LeftHandRing4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(27) mixamorig1_LeftHandPinky1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(28) mixamorig1_LeftHandPinky2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(29) mixamorig1_LeftHandPinky3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(30) mixamorig1_LeftHandPinky4
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(31) mixamorig1_RightShoulder
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(32) mixamorig1_RightArm
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(33) mixamorig1_RightForeArm
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(34) mixamorig1_RightHand
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(35) mixamorig1_RightHandThumb1
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(36) mixamorig1_RightHandThumb2
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(37) mixamorig1_RightHandThumb3
+[2023.03.18-03.53.52:200][505]LogFbx: SortedLinks :(38) mixamorig1_RightHandThumb4
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(39) mixamorig1_RightHandIndex1
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(40) mixamorig1_RightHandIndex2
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(41) mixamorig1_RightHandIndex3
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(42) mixamorig1_RightHandIndex4
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(43) mixamorig1_RightHandMiddle1
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(44) mixamorig1_RightHandMiddle2
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(45) mixamorig1_RightHandMiddle3
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(46) mixamorig1_RightHandMiddle4
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(47) mixamorig1_RightHandRing1
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(48) mixamorig1_RightHandRing2
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(49) mixamorig1_RightHandRing3
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(50) mixamorig1_RightHandRing4
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(51) mixamorig1_RightHandPinky1
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(52) mixamorig1_RightHandPinky2
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(53) mixamorig1_RightHandPinky3
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(54) mixamorig1_RightHandPinky4
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(55) mixamorig1_LeftUpLeg
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(56) mixamorig1_LeftLeg
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(57) mixamorig1_LeftFoot
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(58) mixamorig1_LeftToeBase
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(59) mixamorig1_LeftToe_End
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(60) mixamorig1_RightUpLeg
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(61) mixamorig1_RightLeg
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(62) mixamorig1_RightFoot
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(63) mixamorig1_RightToeBase
+[2023.03.18-03.53.52:201][505]LogFbx: SortedLinks :(64) mixamorig1_RightToe_End
+[2023.03.18-03.53.52:201][505]LogFbx: Parsing AnimStack CINEMA_4D_Main
+[2023.03.18-03.53.52:444][505]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/run/folder/run_Anim_CINEMA_4D_Main.run_Anim_CINEMA_4D_Main
+[2023.03.18-03.53.52:447][505]LogFbx: Parsing AnimStack Take 001
+[2023.03.18-03.53.52:702][505]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/run/folder/run_Anim_Take_001.run_Anim_Take_001
+[2023.03.18-03.53.52:704][505]LogFbx: Parsing AnimStack mixamo.com
+[2023.03.18-03.53.53:009][505]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.18-03.53.53:009][505]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig1_HeadTop_End  
+mixamorig1_LeftHandThumb4  
+mixamorig1_LeftHandIndex4  
+mixamorig1_LeftHandMiddle4  
+mixamorig1_LeftHandRing4  
+mixamorig1_LeftHandPinky4  
+mixamorig1_RightHandThumb4  
+mixamorig1_RightHandIndex4  
+mixamorig1_RightHandMiddle4  
+mixamorig1_RightHandRing4  
+mixamorig1_RightHandPinky4  
+mixamorig1_LeftToe_End  
+mixamorig1_RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2023.03.18-03.53.53:059][505]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/run/folder/run_Anim_mixamo_com.run_Anim_mixamo_com
+[2023.03.18-03.53.56:941][707]LogSlate: Window 'Message Log' being destroyed
+[2023.03.18-03.53.56:962][707]LogSlate: Window 'Message Log' being destroyed
+[2023.03.18-03.55.50:611][781]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/run/folder/run.run
+[2023.03.18-03.55.50:611][781]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/run/folder/run.run
+[2023.03.18-03.55.50:612][781]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/run/folder/run.run as actor: SkeletalMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.SkeletalMeshActor_0
+[2023.03.18-03.55.50:613][781]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/run/folder/run.run as actor: SkeletalMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.SkeletalMeshActor_0
+[2023.03.18-03.55.51:407][822]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/run/folder/run.run
+[2023.03.18-03.55.51:407][822]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/run/folder/run.run
+[2023.03.18-03.55.51:409][822]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/run/folder/run.run as actor: SkeletalMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.SkeletalMeshActor_UAID_18C04D8BF7B75E7001_2023662033
+[2023.03.18-03.55.51:410][822]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/run/folder/run.run as actor: SkeletalMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.SkeletalMeshActor_UAID_18C04D8BF7B75E7001_2023662033
+[2023.03.18-04.00.09:063][436]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.18-04.00.41:526][254]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Content/Character/marco/Armor.Armor
+[2023.03.18-04.00.41:526][254]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Content/Character/marco/Armor.Armor
+[2023.03.18-04.00.41:526][254]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Content/Character/marco/Armor.Armor as actor: SkeletalMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.SkeletalMeshActor_1
+[2023.03.18-04.00.41:528][254]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Content/Character/marco/Armor.Armor as actor: SkeletalMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.SkeletalMeshActor_1
+[2023.03.18-04.00.42:925][323]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Content/Character/marco/Armor.Armor
+[2023.03.18-04.00.42:925][323]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Content/Character/marco/Armor.Armor
+[2023.03.18-04.00.42:928][323]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Content/Character/marco/Armor.Armor as actor: SkeletalMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.SkeletalMeshActor_UAID_18C04D8BF7B75F7001_1241438210
+[2023.03.18-04.00.42:929][323]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Content/Character/marco/Armor.Armor as actor: SkeletalMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.SkeletalMeshActor_UAID_18C04D8BF7B75F7001_1241438210
+[2023.03.18-04.02.16:787][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.03.18-04.02.16:789][419]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.089
+[2023.03.18-04.02.16:789][419]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/run/folder/run] ([1] browsable assets)...
+[2023.03.18-04.02.16:825][419]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/run/folder/run.run]
+[2023.03.18-04.02.16:825][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/run/folder/run]
+[2023.03.18-04.02.16:885][419]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/run/folder/run_Auto4
+[2023.03.18-04.02.16:885][419]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/run_Auto4C2EDEC054186923B48B79585616EDBBB.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/run/folder/run_Auto4.uasset'
+[2023.03.18-04.02.16:885][419]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/run/folder/run_Skeleton] ([1] browsable assets)...
+[2023.03.18-04.02.16:917][419]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/run/folder/run_Skeleton.run_Skeleton]
+[2023.03.18-04.02.16:917][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/run/folder/run_Skeleton]
+[2023.03.18-04.02.16:920][419]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/run/folder/run_Skeleton_Auto4
+[2023.03.18-04.02.16:920][419]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/run_Skeleton_Auto44B286DEF444E4108E9811D94DC0DBE3B.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/run/folder/run_Skeleton_Auto4.uasset'
+[2023.03.18-04.02.16:921][419]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/run/folder/run_PhysicsAsset] ([1] browsable assets)...
+[2023.03.18-04.02.16:951][419]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/run/folder/run_PhysicsAsset.run_PhysicsAsset]
+[2023.03.18-04.02.16:951][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/run/folder/run_PhysicsAsset]
+[2023.03.18-04.02.16:955][419]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/run/folder/run_PhysicsAsset_Auto4
+[2023.03.18-04.02.16:955][419]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/run_PhysicsAsset_Auto4EC5F41C94E83684610D320AF9B4DE7B2.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/run/folder/run_PhysicsAsset_Auto4.uasset'
+[2023.03.18-04.02.16:956][419]LogFileHelpers: Auto-saving content packages took 0.167
+[2023.03.18-04.25.05:614][530]LogDerivedDataCache: C:/Users/marco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.169 and deleted 0 files with total size 0 MiB. Scanned 8819 files in 8724 folders with total size 1655 MiB.
+[2023.03.18-05.25.04:605][320]LogDerivedDataCache: C:/Users/marco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.159 and deleted 0 files with total size 0 MiB. Scanned 8819 files in 8724 folders with total size 1655 MiB.
+[2023.03.18-05.46.19:554][770]LogContentBrowser: Deferred new asset folder creation: NewFolder1
+[2023.03.18-05.46.19:568][770]LogContentBrowser: Creating deferred item: NewFolder1
+[2023.03.18-05.46.19:598][771]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder1).
+[2023.03.18-05.46.20:625][833]LogContentBrowser: Attempting asset rename: NewFolder1 -> NewFolder1
+[2023.03.18-05.46.20:625][833]LogContentBrowser: End creating deferred item NewFolder1
+[2023.03.18-05.46.28:724][998]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\marco\OneDrive\Escritorio\StandardRun(2).UE.fbx)
+[2023.03.18-05.46.28:731][998]LogFbx: Loading FBX Scene from C:\Users\marco\OneDrive\Escritorio\StandardRun(2).UE.fbx
+[2023.03.18-05.46.28:778][998]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.18-05.46.33:805][998]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.18-05.46.33:823][998]FBXImport: Error: Mesh contains mixamorig1_Hips bone as root but animation doesn't contain the root track.
+Import failed. 
+[2023.03.18-05.46.33:824][998]FBXImport: Error: Import failed. 
+[2023.03.18-05.46.35:474][998]LogSlate: Window 'Message' being destroyed
+[2023.03.18-05.46.35:482][998]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\marco\OneDrive\Escritorio\StandardRun(2).UE.fbx'. Failed to create asset '/Game/Content/Character/marco/NewFolder1/StandardRun_2__UE'.
+Please see Output Log for details.
+[2023.03.18-05.46.35:482][998]LogAssetTools: Warning: Failed to import 'C:\Users\marco\OneDrive\Escritorio\StandardRun(2).UE.fbx'. Failed to create asset '/Game/Content/Character/marco/NewFolder1/StandardRun_2__UE'.
+Please see Output Log for details.
+[2023.03.18-05.46.41:320][333]LogSlate: Window 'Message Log' being destroyed
+[2023.03.18-05.46.41:326][333]LogSlate: Window 'Message Log' being destroyed
+[2023.03.18-05.46.51:843][715]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\marco\OneDrive\Escritorio\StandardRun(2).UE.fbx)
+[2023.03.18-05.46.51:849][715]LogFbx: Loading FBX Scene from C:\Users\marco\OneDrive\Escritorio\StandardRun(2).UE.fbx
+[2023.03.18-05.46.51:892][715]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.18-05.47.09:581][715]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.18-05.47.09:601][715]FBXImport: Error: Mesh contains mixamorig1_Hips bone as root but animation doesn't contain the root track.
+Import failed. 
+[2023.03.18-05.47.09:601][715]FBXImport: Error: Import failed. 
+[2023.03.18-05.47.17:514][715]LogSlate: Window 'Message' being destroyed
+[2023.03.18-05.47.17:521][715]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\marco\OneDrive\Escritorio\StandardRun(2).UE.fbx'. Failed to create asset '/Game/Content/Character/marco/NewFolder1/StandardRun_2__UE'.
+Please see Output Log for details.
+[2023.03.18-05.47.17:521][715]LogAssetTools: Warning: Failed to import 'C:\Users\marco\OneDrive\Escritorio\StandardRun(2).UE.fbx'. Failed to create asset '/Game/Content/Character/marco/NewFolder1/StandardRun_2__UE'.
+Please see Output Log for details.
+[2023.03.18-05.48.44:490][458]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\marco\OneDrive\Escritorio\mixamo_converter\Mannequins\official man Unreal Engine 4\_SK_Mannequin.FBX)
+[2023.03.18-05.48.44:496][458]LogFbx: Loading FBX Scene from C:\Users\marco\OneDrive\Escritorio\mixamo_converter\Mannequins\official man Unreal Engine 4\_SK_Mannequin.FBX
+[2023.03.18-05.48.44:524][458]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.18-05.48.46:261][458]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.18-05.48.46:278][458]LogFbx: Valid bind pose for Pose (SK_Mannequin) - SK_Mannequin
+[2023.03.18-05.48.46:284][458]LogMaterial: Display: Material /Game/Content/Character/marco/NewFolder1/M_Male_Body.M_Male_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.18-05.48.46:449][458]LogMaterial: Display: Material /Game/Content/Character/marco/NewFolder1/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.18-05.48.46:617][458]LogFbx: Bones digested - 73  Depth of hierarchy - 12
+[2023.03.18-05.48.47:551][458]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2023.03.18-05.48.47:551][458]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2023.03.18-05.48.47:561][458]LogSkeletalMesh: Building Skeletal Mesh _SK_Mannequin...
+[2023.03.18-05.48.47:581][458]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (_SK_Mannequin) ...
+[2023.03.18-05.48.48:362][458]LogSkeletalMesh: Built Skeletal Mesh [0.80s] /Game/Content/Character/marco/NewFolder1/_SK_Mannequin._SK_Mannequin
+[2023.03.18-05.48.48:479][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.18-05.48.48:519][458]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.03.18-05.48.48:519][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.18-05.48.48:539][458]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.18-05.48.48:539][458]FBXImport: Warning: The following bones are missing from the bind pose:
+LeftHandIndex4  
+LeftHandMiddle4  
+LeftHandPinky4  
+LeftHandRing4  
+LeftHandThumb4  
+RightHandIndex4  
+RightHandMiddle4  
+RightHandPinky4  
+RightHandRing4  
+RightHandThumb4  
+HeadTop_End  
+LeftToe_End  
+RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: ================================================
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Total job queries 277, among them cache hits 43 (15.52%)
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Tracking 167 distinct input hashes that result in 124 distinct outputs (74.25%)
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: RAM used: 1.37 MB (0.00 GB) of 2048.00 MB (2.00 GB) budget. Usage: 0.07%
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Shaders Compiled: 36
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Jobs assigned 39, completed 36 (92.31%)
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Average time worker was idle: 2764.33 s
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Time job spent in pending queue: average 0.91 s, longest 3.14 s
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Job execution time: average 1.48 s, max 4.61 s
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Job life time (pending + execution): average 2.47 s, max 4.63
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.96 s
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Jobs were issued in 39 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Average processing rate: 3.01 jobs/sec
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Total thread time: 41.13 s
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Total thread preprocess time: 2.67 s
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Percentage time preprocessing: 6.48%
+[2023.03.18-05.48.50:313][534]LogShaderCompilers: Display: Effective parallelization: 3.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.18-05.48.50:314][534]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.18-05.48.50:314][534]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.51 sec, max 3.52 sec, min 0.69 sec)
+[2023.03.18-05.48.50:314][534]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 1.39 sec, max 2.75 sec, min 0.60 sec)
+[2023.03.18-05.48.50:314][534]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 1.25 sec, max 2.84 sec, min 0.39 sec)
+[2023.03.18-05.48.50:314][534]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 1.24 sec, max 3.16 sec, min 0.65 sec)
+[2023.03.18-05.48.50:314][534]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.13 sec, max 1.13 sec, min 1.13 sec)
+[2023.03.18-05.48.50:314][534]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.18-05.48.50:314][534]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.08% of total time (compiled    5 times, average 1.24 sec, max 3.16 sec, min 0.65 sec)
+[2023.03.18-05.48.50:314][534]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.71% of total time (compiled    4 times, average 1.51 sec, max 3.52 sec, min 0.69 sec)
+[2023.03.18-05.48.50:314][534]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.15% of total time (compiled    3 times, average 1.39 sec, max 2.75 sec, min 0.60 sec)
+[2023.03.18-05.48.50:314][534]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.09% of total time (compiled    3 times, average 1.25 sec, max 2.84 sec, min 0.39 sec)
+[2023.03.18-05.48.50:314][534]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.75% of total time (compiled    1 times, average 1.13 sec, max 1.13 sec, min 1.13 sec)
+[2023.03.18-05.48.50:314][534]LogShaderCompilers: Display: ================================================
+[2023.03.18-05.48.54:192][747]LogSlate: Window 'Message Log' being destroyed
+[2023.03.18-05.48.54:197][747]LogSlate: Window 'Message Log' being destroyed
+[2023.03.18-05.48.59:951][892]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\marco\OneDrive\Escritorio\StandardRun(2).UE.fbx)
+[2023.03.18-05.48.59:957][892]LogFbx: Loading FBX Scene from C:\Users\marco\OneDrive\Escritorio\StandardRun(2).UE.fbx
+[2023.03.18-05.49.00:000][892]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.18-05.50.45:425][892]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.18-05.50.45:448][892]FBXImport: Error: Mesh contains Hips bone as root but animation doesn't contain the root track.
+Import failed. 
+[2023.03.18-05.50.45:448][892]FBXImport: Error: Import failed. 
+[2023.03.18-05.50.47:115][892]LogSlate: Window 'Message' being destroyed
+[2023.03.18-05.50.47:123][892]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\marco\OneDrive\Escritorio\StandardRun(2).UE.fbx'. Failed to create asset '/Game/Content/Character/marco/NewFolder1/StandardRun_2__UE'.
+Please see Output Log for details.
+[2023.03.18-05.50.47:123][892]LogAssetTools: Warning: Failed to import 'C:\Users\marco\OneDrive\Escritorio\StandardRun(2).UE.fbx'. Failed to create asset '/Game/Content/Character/marco/NewFolder1/StandardRun_2__UE'.
+Please see Output Log for details.
+[2023.03.18-05.50.52:974][226]LogSlate: Window 'Message Log' being destroyed
+[2023.03.18-05.50.52:981][226]LogSlate: Window 'Message Log' being destroyed
+[2023.03.18-05.51.48:931][ 30]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\marco\OneDrive\Escritorio\mixamo_converter\OutgoingFbx\StandardRun(2).UE.fbx)
+[2023.03.18-05.51.48:938][ 30]LogFbx: Loading FBX Scene from C:\Users\marco\OneDrive\Escritorio\mixamo_converter\OutgoingFbx\StandardRun(2).UE.fbx
+[2023.03.18-05.51.48:981][ 30]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.18-05.52.57:546][ 30]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.18-05.52.57:636][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.03.18-05.52.57:639][ 30]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.03.18-05.52.58:116][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.03.18-05.52.58:117][ 30]FBXImport: Import was canceled. 
+[2023.03.18-05.52.58:182][ 30]LogAssetTools: The import task was canceled.
+[2023.03.18-05.53.01:412][207]LogSlate: Window 'Message Log' being destroyed
+[2023.03.18-05.53.01:419][207]LogSlate: Window 'Message Log' being destroyed
+[2023.03.18-05.57.18:047][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2023.03.18-05.57.18:051][644]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.097
+[2023.03.18-05.57.18:053][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Content/Character/marco/NewFolder1/_SK_Mannequin_PhysicsAsset] ([1] browsable assets)...
+[2023.03.18-05.57.18:068][644]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Content/Character/marco/NewFolder1/_SK_Mannequin_PhysicsAsset._SK_Mannequin_PhysicsAsset]
+[2023.03.18-05.57.18:068][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Character/marco/NewFolder1/_SK_Mannequin_PhysicsAsset]
+[2023.03.18-05.57.18:073][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Content/Character/marco/NewFolder1/_SK_Mannequin_PhysicsAsset_Auto5
+[2023.03.18-05.57.18:073][644]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/_SK_Mannequin_PhysicsAsset_Auto5AA1223C14EF29DDDE3A6AD914B47C3B7.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/Content/Character/marco/NewFolder1/_SK_Mannequin_PhysicsAsset_Auto5.uasset'
+[2023.03.18-05.57.18:074][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Content/Character/marco/NewFolder1/_SK_Mannequin] ([1] browsable assets)...
+[2023.03.18-05.57.18:089][644]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Content/Character/marco/NewFolder1/_SK_Mannequin._SK_Mannequin]
+[2023.03.18-05.57.18:089][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Character/marco/NewFolder1/_SK_Mannequin]
+[2023.03.18-05.57.18:171][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Content/Character/marco/NewFolder1/_SK_Mannequin_Auto5
+[2023.03.18-05.57.18:171][644]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/_SK_Mannequin_Auto537584F60472ED9410E03AEAF27AEC811.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/Content/Character/marco/NewFolder1/_SK_Mannequin_Auto5.uasset'
+[2023.03.18-05.57.18:172][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Content/Character/marco/NewFolder1/_SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2023.03.18-05.57.18:206][644]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Content/Character/marco/NewFolder1/_SK_Mannequin_Skeleton._SK_Mannequin_Skeleton]
+[2023.03.18-05.57.18:206][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Character/marco/NewFolder1/_SK_Mannequin_Skeleton]
+[2023.03.18-05.57.18:208][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Content/Character/marco/NewFolder1/_SK_Mannequin_Skeleton_Auto5
+[2023.03.18-05.57.18:208][644]LogSavePackage: Moving '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/_SK_Mannequin_Skeleton_Auto5CAF9F6154530D2447C68F3BAD1E5AEE7.tmp' to '../../../../../../Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Saved/Autosaves/Game/Content/Character/marco/NewFolder1/_SK_Mannequin_Skeleton_Auto5.uasset'
+[2023.03.18-05.57.18:208][644]LogFileHelpers: Auto-saving content packages took 0.158
+[2023.03.18-06.05.45:710][177]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.03.18-06.05.45:710][177]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.03.18-06.05.52:262][321]LogViewport: Scene viewport resized to 1562x573, mode Windowed.
+[2023.03.18-06.25.05:590][784]LogDerivedDataCache: C:/Users/marco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.144 and deleted 0 files with total size 0 MiB. Scanned 8947 files in 8849 folders with total size 1671 MiB.
