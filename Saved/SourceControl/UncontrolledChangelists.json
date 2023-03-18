@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Content/Content/Levels/Map1.umap",
 				"C:/Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Content/Content/blueprints/AP_character.uasset",
 				"C:/Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Content/Content/blueprints/BP_Character.uasset",
@@ -268,6 +269,8 @@
 				"C:/Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Content/Content/Character/Animations/Breathing_Idle_Anim_mixamo_com.uasset",
 				"C:/Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Content/Content/Character/Animations/Breathing_Idle_Anim_Take_001.uasset",
 				"C:/Users/marco/OneDrive/Documentos/Unreal Projects/metaverse/Content/Content/Character/Animations/Breathing_Idle_PhysicsAsset.uasset",
+=======
+>>>>>>> parent of 302040e (ivysaur)
 				"C:/Users/marco/OneDrive/Documentos/Unreal Projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/marco/OneDrive/Documentos/Unreal Projects/MyProject/Content/Content/Levels/Map1.umap",
 				"C:/Users/marco/OneDrive/Documentos/Unreal Projects/MyProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset",
